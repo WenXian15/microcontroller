@@ -1,5 +1,6 @@
-RP2350 Datasheet
-https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf?_gl=1*bb9xqd*_ga*OTc5NTk2ODQ2LjE3MjY5MDE2NDE.*_ga_22FD70LWDS*MTcyNzQ0NDEyNy4yLjEuMTcyNzQ0NDE4NC4wLjAuMA..
+Docs to refer to 
+1. https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
+2. https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf
 
 Memory
 1. ROM
@@ -56,5 +57,13 @@ Watchdog Boot Vector
 • SCRATCH7: entry point
 
 
-Refer to Debug with a second Pico or Pico 2 section of https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
-$ sudo openocd -f pico/interface/cmsis-dap.cfg -f pico2/target/rp2040.cfg -c "adapter speed 5000"
+The default openocd does not works with pico2, raspberrypi version of openocd is required.
+Build openocd
+$ git clone https://github.com/raspberrypi/openocd.git
+$ sudo apt install libhidapi-dev && sudo apt-get install libusb-1.0-0-dev (Lib dependencies)
+$ cd openocd
+$ ./bootstrap
+$ ./configure --disable-werror --enable-buspirate --enable-cmsis-dap
+$ make -j4
+
+$ sudo openocd -f pico/interface/cmsis-dap.cfg -f pico2/target/rp2345.cfg -c "adapter speed 5000"
