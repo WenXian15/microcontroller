@@ -2,12 +2,11 @@ Docs to refer to
 1. https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
 2. https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf
 
-Memory
-1. ROM
-2. SRAM
-3. Boot RAM
-4. External Flash and PSRAM
-5. OTP
+Chapter 4. Memory
+- 32kB ROM, 520kB SRAM, 1kB Boot RAM,  External Flash and PSRAM, 8kB OTP
+
+Chapter 12. Peripherals 
+- UART, I2C, SPI, ADC, PWM, DMA, USB, System timers, Watchdog, Always-On Timer, HSTX, TRNG, SHA-256 Accelerator, QSPI Memory Interface (QMI), System Control Registers
 
 High level boot sequence
 Entry -> Core 1 Wait -> Boot Path Start -> Await Rescue -> Generate Boot Random -> Check POWMAN Vector -> Check Watchdog Vector -> Prepare for Image Boot
