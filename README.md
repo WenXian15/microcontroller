@@ -11,6 +11,7 @@ https://gist.github.com/sjgallagher2/7815a26d9c2c335237fca14bd02d1fd5
 
 Memory Layout of a PROCESS
 text, data, HEAP, STACK
+https://www.youtube.com/watch?v=7ge7u5VUSbE&t=42s
 
 
 GDB
