@@ -27,3 +27,6 @@ With RISC-V Assembler, the operand order is destination/source except for STORE.
 https://electronics.stackexchange.com/questions/554981/help-in-understanding-store-word-sw-instruction-in-risc-v
 
 SW 
+
+
+unicode - UTF-8, UTF-16, UTF-32
