@@ -29,4 +29,4 @@ https://electronics.stackexchange.com/questions/554981/help-in-understanding-sto
 SW 
 
 
-unicode - UTF-8, UTF-16, UTF-32
+ASCII vs unicode - UTF-8, UTF-16, UTF-32
