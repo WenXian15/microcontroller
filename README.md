@@ -30,3 +30,5 @@ SW
 
 
 ASCII vs unicode - UTF-8, UTF-16, UTF-32
+Little Endian vs Big Endian - https://www.youtube.com/watch?v=RvFRCDoj6JI
+Data padding (Data Structure Alignment)
