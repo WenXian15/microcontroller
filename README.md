@@ -26,6 +26,9 @@ RISC-V Core Instructions
 With RISC-V Assembler, the operand order is destination/source except for STORE. 
 https://electronics.stackexchange.com/questions/554981/help-in-understanding-store-word-sw-instruction-in-risc-v
 
+Little/Big Endian
+Little - Least significant byte first, Big - Most significant byte first.  First meaning lowest address
+
 SW 
 
 
