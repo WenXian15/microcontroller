@@ -30,3 +30,7 @@ $ ./configure --disable-werror --enable-buspirate --enable-cmsis-dap
 $ make -j4
 
 $ sudo openocd -f pico/interface/cmsis-dap.cfg -f pico2/target/rp2345.cfg -c "adapter speed 5000"
+
+Interesting Projects
+1. Pico serial Bootloader - https://blog.usedbytes.com/2021/12/pico-serial-bootloader/
+2. ESP32 WiFi/Bluetooth Bridge to Pico - https://blog.usedbytes.com/2021/12/esp32-wifi/bluetooth-bridge/
