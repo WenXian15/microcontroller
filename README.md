@@ -1,13 +1,15 @@
-Collection of microcontroller projects
+
+Fundamental Concepts 
+1. Pointer - https://x.com/7etsuo/status/1834554218386194464?s=46
+2. Memory Allocation - https://x.com/chessman786/status/1859054892293517531?s=46
+3. Interrupt - https://x.com/7etsuo/status/1859722100740849769?s=46
 
 
+.elf
 .dat
 .hex
 .bin
 .mcs (Intel Hex)
-
-C Fundamental
-https://gist.github.com/sjgallagher2/7815a26d9c2c335237fca14bd02d1fd5
 
 
 Memory Layout of a PROCESS
@@ -35,3 +37,6 @@ SW
 ASCII vs unicode - UTF-8, UTF-16, UTF-32
 Little Endian vs Big Endian - https://www.youtube.com/watch?v=RvFRCDoj6JI
 Data padding (Data Structure Alignment)
+
+
+
