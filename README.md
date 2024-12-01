@@ -1,8 +1,16 @@
+Thread
+Process 
+
 
 Fundamental Concepts 
 1. Pointer - https://x.com/7etsuo/status/1834554218386194464?s=46
 2. Memory Allocation - https://x.com/chessman786/status/1859054892293517531?s=46
 3. Interrupt - https://x.com/7etsuo/status/1859722100740849769?s=46
+4. Stack/buffer overflow
+
+Memory Layout of a PROCESS
+text, data, HEAP, STACK
+https://www.youtube.com/watch?v=7ge7u5VUSbE&t=42s
 
 
 .elf
@@ -12,9 +20,7 @@ Fundamental Concepts
 .mcs (Intel Hex)
 
 
-Memory Layout of a PROCESS
-text, data, HEAP, STACK
-https://www.youtube.com/watch?v=7ge7u5VUSbE&t=42s
+
 
 
 GDB
