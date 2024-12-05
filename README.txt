@@ -42,6 +42,9 @@ https://electronics.stackexchange.com/questions/554981/help-in-understanding-sto
 Little/Big Endian
 Little - Least significant byte first, Big - Most significant byte first.  First meaning lowest address
 
+Common predefined macro
+https://gcc.gnu.org/onlinedocs/gcc-11.5.0/cpp/Common-Predefined-Macros.html
+
 SW 
 
 
