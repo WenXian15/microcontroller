@@ -2,6 +2,8 @@
 Hi, here is step by step of how I try to understand C program running on baremetal.
 First try to understand of byte addressable, char, int and various variable size.  Follow up by heap, stack and the memory allocation.
   Memory Allocation - https://x.com/chessman786/status/1859054892293517531?s=46
+  https://martinlwx.github.io/en/what-is-the-heap-and-stack/#fnref:2
+  Youtube CoreDumped - Why is STACK so fast? and Why is HEAP so SLOW?
 
 1. Pointer - https://x.com/7etsuo/status/1834554218386194464?s=46
 2. 
