@@ -1,3 +1,7 @@
+Reading:
+1. https://github.com/manjunath5496/Embedded-Systems-Books/tree/master?tab=readme-ov-file
+2. https://mp.weixin.qq.com/s/RHCPwB0pN2XpgWJCurNOuw
+
 
 Hi, here is step by step of how I try to understand C program running on baremetal.
 First try to understand of byte addressable, char, int and various variable size.  Follow up by heap, stack and the memory allocation.
