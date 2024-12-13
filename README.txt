@@ -32,7 +32,8 @@ https://www.youtube.com/watch?v=7ge7u5VUSbE&t=42s
 
 
 
-
+OpenOCD
+https://ectfmitre.gitlab.io/ectf-website/2024/getting_started/openocd.html
 GDB
 https://visualgdb.com/gdbreference/commands/
 
