@@ -11,7 +11,7 @@ First try to understand of byte addressable, char, int and various variable size
   Youtube CoreDumped - Why is STACK so fast? and Why is HEAP so SLOW?
 
 1. Pointer - https://x.com/7etsuo/status/1834554218386194464?s=46
-2. 
+2. Segmentation Fault
 3. Interrupt - https://x.com/7etsuo/status/1859722100740849769?s=46
 4. Stack/buffer overflow
 
