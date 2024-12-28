@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=7ge7u5VUSbE&t=42s
 .mcs (Intel Hex)
 
 
-#Debugging
+## Debugging
 OpenOCD       : https://ectfmitre.gitlab.io/ectf-website/2024/getting_started/openocd.html
 GDB           : https://visualgdb.com/gdbreference/commands/
 GDB Dashboard : https://github.com/cyrus-and/gdb-dashboard?tab=readme-ov-file
