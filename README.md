@@ -31,17 +31,12 @@ https://www.youtube.com/watch?v=7ge7u5VUSbE&t=42s
 
 
 ## Debugging
-OpenOCD       : https://ectfmitre.gitlab.io/ectf-website/2024/getting_started/openocd.html
-GDB           : https://visualgdb.com/gdbreference/commands/
-GDB Dashboard : https://github.com/cyrus-and/gdb-dashboard?tab=readme-ov-file
+OpenOCD       : https://ectfmitre.gitlab.io/ectf-website/2024/getting_started/openocd.html \
+GDB           : https://visualgdb.com/gdbreference/commands/ \
+GDB Dashboard : https://github.com/cyrus-and/gdb-dashboard?tab=readme-ov-file 
 
 C Library Functions
 https://developer.arm.com/documentation/dui0041/c/The-C-and-C---Libraries/The-embedded-C-library/Embedded-C-library-functions
-
-RISC-V Core Instructions
-
-With RISC-V Assembler, the operand order is destination/source except for STORE. 
-https://electronics.stackexchange.com/questions/554981/help-in-understanding-store-word-sw-instruction-in-risc-v
 
 Little/Big Endian
 Little - Least significant byte first, Big - Most significant byte first.  First meaning lowest address
