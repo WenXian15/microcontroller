@@ -1,1 +1,6 @@
-https://github.com/egnor/wt32-eth01?tab=readme-ov-file
+Reading:
+1. ESP32 Programming Guide : https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html
+
+Boards
+WT32-ETH01 : https://github.com/egnor/wt32-eth01?tab=readme-ov-file
+
