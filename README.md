@@ -38,9 +38,6 @@ GDB Dashboard : https://github.com/cyrus-and/gdb-dashboard?tab=readme-ov-file
 C Library Functions
 https://developer.arm.com/documentation/dui0041/c/The-C-and-C---Libraries/The-embedded-C-library/Embedded-C-library-functions
 
-Little/Big Endian
-Little - Least significant byte first, Big - Most significant byte first.  First meaning lowest address
-
 Common predefined macro
 https://gcc.gnu.org/onlinedocs/gcc-11.5.0/cpp/Common-Predefined-Macros.html
 
