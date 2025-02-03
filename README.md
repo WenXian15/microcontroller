@@ -2,6 +2,7 @@ Reading:
 1. https://github.com/manjunath5496/Embedded-Systems-Books/tree/master?tab=readme-ov-file
 2. https://mp.weixin.qq.com/s/RHCPwB0pN2XpgWJCurNOuw
 3. https://lupyuen.github.io/
+4. bare metal programming guide - https://github.com/cpq/bare-metal-programming-guide
 
 
 Hi, here is step by step of how I try to understand C program running on baremetal.
