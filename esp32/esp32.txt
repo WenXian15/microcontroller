@@ -6,4 +6,12 @@ WT32-ETH01 : https://github.com/egnor/wt32-eth01?tab=readme-ov-file
 
 Problem:
 1. Unable to connect to Espressif System using ESP Link v1.0.  
-Resolution: Follow the pinout in https://www.youtube.com/watch?v=LTuRmQFVKtE and connect using usb-uart chip.  However the issue is showing up, usually can be resolved by                     disconnecting the power pin.
+Resolution: Follow the pinout in https://www.youtube.com/watch?v=LTuRmQFVKtE and connect using usb-uart chip.  However the issue is showing up, usually can be resolved by disconnecting the power pin.
+
+
+Raspberry PI uart bring up 
+overlay - https://forums.raspberrypi.com/viewtopic.php?t=244827
+
+Issues
+1. Issues with enabling uart0
+2. ttyAMA2 is Uart2 or Uart3 and what is ttyAMA0?
