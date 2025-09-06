@@ -1,3 +1,8 @@
+Command lists
+
+raspi-config
+
+
 Raspberry PI uart bring up 
 overlay - https://forums.raspberrypi.com/viewtopic.php?t=244827
 /boot/config.txt
